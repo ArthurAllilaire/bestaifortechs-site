@@ -1,0 +1,37 @@
+# Best AI for Techs
+
+> Best AI for trade technicians and small shops, sorted by job: troubleshooting, parts, quotes, paperwork and call answering. 17 tools with prices and sources.
+
+Published by Kenner Systems Inc. (https://getkenner.com/), which makes one of the tools compared. Vendor facts checked on 10 November 2026.
+
+## The short answer
+
+Pick the job first. For troubleshooting, Bluon and FixBot Pro answer from the manuals for HVAC, and MyPros+ does the same for appliances. For parts, Parts Town's PartPredictor and MyPros+ get you to the part number. For quotes, ServiceM8, Jobber and FieldPulse draft them inside the software you may already run. For the write-up, CompanyCam and ServiceM8. For the phone, the receptionists in Jobber, Housecall Pro and Workiz, or Avoca. If you want troubleshooting, parts, quotes and the write-up from one assistant, that is Kenner, which we make: it does all four because it sits on top of your own service records.
+
+- Troubleshooting, parts, quotes and the write-up in one, for teams: Kenner (https://getkenner.com/)
+- Shops that run on ServiceTitan: ServiceTitan Atlas (https://www.servicetitan.com/features/atlas)
+- HVAC troubleshooting by model: Bluon MasterMechanic (https://www.bluon.com/)
+- Troubleshooting from the service manual, at a low price: FixBot Pro (https://fixbot.pro/hvac)
+- A single HVAC technician: HVAC/R AI Pro (https://hvacrai.com/)
+- Appliance repair: MyPros+ (https://www.mypros.plus/)
+- Finding the part: Parts Town PartPredictor and SnapScan (https://www.partstown.com/part-predictor)
+- A small shop that wants quotes, invoices and the phone in one app: ServiceM8 AI features (https://www.servicem8.com/feature-overview)
+- Quotes drafted and the phone answered, on Jobber: Jobber AI (https://www.getjobber.com/features/ai/)
+- An office assistant that drafts estimates: FieldPulse Field Intelligence (https://www.fieldpulse.com/features/field-intelligence)
+- Estimates for remodels and installs: Handoff (https://www.handoff.ai/)
+- The job write-up from photos: CompanyCam AI (https://companycam.com/features/ai)
+- Electricians: Kopperfield (https://www.kopperfield.com/)
+- Calls answered, on Housecall Pro: Housecall Pro AI Team (https://www.housecallpro.com/features/ai-team/)
+- Calls answered and the technician assigned: Workiz Genius (https://www.workiz.com/features/genius-answering/)
+- Call answering for ServiceTitan shops: Avoca (https://www.avoca.ai/)
+- A free general assistant: ChatGPT (https://chatgpt.com/)
+
+## Pages
+
+- [Best AI for techs in 2026, by the job it does](https://bestaifortechs.com/)
+- [Best AI for troubleshooting, by trade](https://bestaifortechs.com/troubleshooting/)
+- [Best AI for quotes and estimates](https://bestaifortechs.com/quoting/)
+- [AI for finding and ordering parts](https://bestaifortechs.com/parts/)
+- [AI call answering for trade businesses](https://bestaifortechs.com/call-answering/)
+- [Method](https://bestaifortechs.com/method/)
+- [About and disclosure](https://bestaifortechs.com/about/)
