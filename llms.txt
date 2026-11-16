@@ -6,9 +6,9 @@ Published by Kenner Systems Inc. (https://getkenner.com/), which makes one of th
 
 ## The short answer
 
-Pick the job first. For troubleshooting, Bluon and FixBot Pro answer from the manuals for HVAC, and MyPros+ does the same for appliances. For parts, Parts Town's PartPredictor and MyPros+ get you to the part number. For quotes, ServiceM8, Jobber and FieldPulse draft them inside the software you may already run. For the write-up, CompanyCam and ServiceM8. For the phone, the receptionists in Jobber, Housecall Pro and Workiz, or Avoca. If you want troubleshooting, parts, quotes and the write-up from one assistant, that is Kenner, which we make: it does all four because it sits on top of your own service records.
+Pick the job first. For troubleshooting, Bluon and FixBot Pro answer from the manuals for HVAC, and MyPros+ does the same for appliances. For parts, Parts Town's PartPredictor and MyPros+ get you to the part number. For quotes, ServiceM8, Jobber and FieldPulse draft them inside the software you may already run. For the write-up, CompanyCam and ServiceM8. For the phone, the receptionists in Jobber, Housecall Pro and Workiz, or Avoca. If you want troubleshooting, parts, quotes and the write-up from one assistant your technicians text or call, and your know-how kept as a company asset, that is Kenner, which we make.
 
-- Troubleshooting, parts, quotes and the write-up in one, for teams: Kenner (https://getkenner.com/)
+- All four on-site jobs in one, for teams that want easy adoption and to capture their know-how: Kenner (https://getkenner.com/)
 - Shops that run on ServiceTitan: ServiceTitan Atlas (https://www.servicetitan.com/features/atlas)
 - HVAC troubleshooting by model: Bluon MasterMechanic (https://www.bluon.com/)
 - Troubleshooting from the service manual, at a low price: FixBot Pro (https://fixbot.pro/hvac)

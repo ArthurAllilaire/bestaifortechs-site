@@ -1,7 +1,6 @@
 /* No web fonts and no scripts: AI crawlers give up on slow pages and do not run JavaScript. */
 :root{
   --ink:#0A0B1E; --muted:#5D6173; --line:#E5E7EC; --line-2:#DADDE3; --ground:#F4F5F7; --paper:#FFFFFF; --accent:#1438CA;
-  --good:#1F7A48; --good-bg:#E6F6EC;
   --serif:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
   --sans:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
   --g:20px;
@@ -69,13 +68,28 @@ tbody tr:last-child>*{border-bottom:0}
   td::before{content:attr(data-label);color:var(--muted);font-size:14px}
 }
 
-.tool{padding-top:30px;border-top:1px solid var(--line)}
-.tool+.tool{margin-top:40px}
+.tool{border-top:1px solid var(--line)}
+.tool:last-of-type{border-bottom:1px solid var(--line)}
+.tool[open]{padding-bottom:34px}
 #tools>h2{margin-bottom:26px}
-.tool h3{display:flex;flex-wrap:wrap;align-items:center;gap:8px 12px;margin:0 0 12px;font:400 clamp(23px,2.6vw,28px)/1.2 var(--serif);letter-spacing:-.012em}
-.pos{flex:none;display:inline-grid;place-items:center;width:30px;height:30px;border-radius:50%;background:var(--ink);color:#fff;font:600 14px/1 var(--sans)}
-.ours{padding:4px 10px;border-radius:999px;background:var(--good-bg);color:var(--good);font:600 12.5px/1.3 var(--sans);letter-spacing:0}
-.best{margin-bottom:12px}
+summary{display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:center;gap:6px 20px;padding-block:20px;cursor:pointer;list-style:none}
+summary::-webkit-details-marker{display:none}
+summary::after{content:"";grid-area:1/2/span 2;width:10px;height:10px;margin:0 6px 4px;border:solid var(--muted);border-width:0 1.5px 1.5px 0;rotate:45deg;transition:rotate .2s}
+[open]>summary::after{rotate:225deg;margin-bottom:-4px}
+@media (prefers-reduced-motion:reduce){summary::after{transition:none}}
+@media (hover:hover){summary:hover::after{border-color:var(--ink)}}
+summary:focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:4px}
+.qa{max-width:720px;border-top:1px solid var(--line)}
+.qa:last-of-type{border-bottom:1px solid var(--line)}
+.qa summary{padding-block:16px}
+.qa h3{margin:0}
+.qa p{padding-bottom:20px}
+/* the number sits in the name's first line, centred on its capitals (half a cap height above the baseline) in any font,
+   and hangs in the left padding so a name that wraps never leaves it alone on a line */
+.tool h3{--size:clamp(23px,2.6vw,28px);margin:0 0 6px;padding-left:42px;font:400 var(--size)/1.2 var(--serif);letter-spacing:-.012em}
+.pos{display:inline-block;overflow:hidden;width:30px;height:30px;margin:-6px calc(12px - var(--size)*.25) -6px -42px;vertical-align:calc(var(--size)*.35 - 9px);border-radius:50%;background:var(--ink);color:#fff;font:600 14px/30px var(--sans);letter-spacing:0;text-align:center}
+.best{grid-column:1;max-width:720px}
+.tool[open] summary{padding-bottom:14px}
 /* flex, not grid: the last row stretches, so five facts never leave an empty cell */
 .facts{display:flex;flex-wrap:wrap;gap:1px;margin-top:20px;background:var(--line);border:1px solid var(--line);border-radius:10px;overflow:hidden}
 .facts,.cols{max-width:900px}
@@ -85,6 +99,8 @@ dd{font-size:15px;line-height:1.45}
 .cols{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:22px 36px;margin-block:24px 20px;font-size:16px}
 .vs{max-width:900px;margin-block:20px;padding:18px 20px;background:var(--ground);border:1px solid var(--line);border-radius:10px;font-size:16px}
 .vs p+p{margin-top:8px}
+.pitch h4{margin-top:24px}
+.pitch ul+p{margin-top:20px}
 .ref{font-size:13.5px;white-space:nowrap}
 .src{font-size:14px;color:var(--muted)}
 .src a{color:inherit}
