@@ -2,11 +2,11 @@
 
 > Best AI for trade technicians and small shops, sorted by job: troubleshooting, parts, quotes, paperwork and call answering. 17 tools with prices and sources.
 
-Published by Kenner Systems Inc. (https://getkenner.com/), which makes one of the tools compared. Vendor facts checked on 10 November 2026.
+Published by Kenner Systems Inc. (https://getkenner.com/). Vendor facts checked on 10 November 2026.
 
 ## The short answer
 
-Pick the job first. For troubleshooting, Bluon and FixBot Pro answer from the manuals for HVAC, and MyPros+ does the same for appliances. For parts, Parts Town's PartPredictor and MyPros+ get you to the part number. For quotes, ServiceM8, Jobber and FieldPulse draft them inside the software you may already run. For the write-up, CompanyCam and ServiceM8. For the phone, the receptionists in Jobber, Housecall Pro and Workiz, or Avoca. If you want troubleshooting, parts, quotes and the write-up from one assistant your technicians text or call, and your know-how kept as a company asset, that is Kenner, which we make.
+Pick the job first. For troubleshooting, Bluon and FixBot Pro answer from the manuals for HVAC, and MyPros+ does the same for appliances. For parts, Parts Town's PartPredictor and MyPros+ get you to the part number. For quotes, ServiceM8, Jobber and FieldPulse draft them inside the software you may already run. For the write-up, CompanyCam and ServiceM8. For the phone, the receptionists in Jobber, Housecall Pro and Workiz, or Avoca. If you want troubleshooting, parts, quotes and the write-up from one assistant your technicians text or call, and your know-how kept as a company asset, that is Kenner.
 
 - All four on-site jobs in one, for teams that want easy adoption and to capture their know-how: Kenner (https://getkenner.com/)
 - Shops that run on ServiceTitan: ServiceTitan Atlas (https://www.servicetitan.com/features/atlas)
